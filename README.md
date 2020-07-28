@@ -105,14 +105,6 @@
             <li><a href="https://www.instagram.com/thalespenichee/?hl=pt-br" target="_blank"><img src="img/insta.png" title="Instagram"></a></li>
             <li><a href="https://github.com/thalespeniche" target="_blank"><img src="img/github.png" title="Github"></a></li>
         </ul>
-    </section>
-    
-    <script src="controller/index.js"></script>
-    <script type="text/javascript">
-        var s = skrollr.init()
-    </script>
-
-    
-    
+    </section>    
 </body>
 </html>
