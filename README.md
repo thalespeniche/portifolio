@@ -17,7 +17,7 @@
         <img src="img/bg .jpg" alt="">
         <div class="content" data-0-top="opacity:0;left:100px;" data-200-top="opacity:1;left:0px;">
             <h2>Front End | Developer </h2>
-            <p>Bem Vindo! Eu sou Desenvolverdor focado em interfaces web e mobile
+            <p>Bem Vindo! Eu sou Desenvolvedor focado em interfaces web e mobile
                 buscando sempre a melhor experiência para todos.
             </p>
         </div>
@@ -26,7 +26,7 @@
     <section class="about">
         <div class="contentBx">
             <h2 class="heading" data-center-center="opacity:1;left:0;" data-0-bottom="opacity:0;left:500px;">Sobre Mim</h2>
-            <p class="text" data-center-center="opacity:1;left:0;" data-0-bottom="opacity:0;left:-500px;">Desenvolverdor pró-ativo e autodidata com 1 ano de
+            <p class="text" data-center-center="opacity:1;left:0;" data-0-bottom="opacity:0;left:-500px;">Desenvolvedor pró-ativo e autodidata com 1 ano de
                 experiência em interfaces web e mobile, buscando me
                 capacitar para novas tendências e tecnologias que estão  
                 chegando.<br>
@@ -38,8 +38,8 @@
     <!--services-->
     <section class="services">
         <h2 class="heading" data-center-center="opacity:1;left:0;" data-0-bottom="opacity:0;left:500px;">Meus Serviços</h2>
-        <p class="text"data-center-center="opacity:1;right:0;" data-0-bottom="opacity:0;right:500px;">Trabalho com implementação fiel de interfaces 
-            ,sigo as melhores práticas do mercado incluindo também metodologias Agile,como SCRUM,
+        <p class="text"data-center-center="opacity:1;right:0;" data-0-bottom="opacity:0;right:500px;">Trabalho com implementação fiel de interfaces, 
+            sigo as melhores práticas do mercado incluindo também metodologias Ágile,como SCRUM,
             JQuery e Bootstrap, uso metodologias e planejamentos otimizados  
             que dinamizam o fluxo de produção e interações constantes, prezando 
             pela melhor experiência do usuário para atender as expectativas de cada projeto.
@@ -60,7 +60,7 @@
             <div class="serviceBx"data-center-center="opacity:1;right:0;" data-0-bottom="opacity:0;right:-400px;">
                 <div>
                     <img src="img/icon3.png">
-                    <h2>Metodologia Agil</h2>
+                    <h2>Metodologia Ágil</h2>
                 </div>
             </div>
         </div>
